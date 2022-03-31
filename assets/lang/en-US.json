@@ -1,0 +1,20 @@
+{
+    "welcome" : "Welcome to My App",
+    "onBoard": {
+            "pageOne": {
+                "title": "Make It Good",
+                "description": "You are not alone. You have unique ability to go to another world.",
+                "imagePath" : "assets/images/onboard/onboard_1.png"
+                },
+                "pageTwo": {
+                    "title": "Make It Good",
+                    "description": "You are not alone. You have unique ability to go to another world.",
+                    "imagePath" : "assets/images/onboard/onboard_2.png"
+                    },
+                    "pageThree": {
+                        "title": "Make It Good",
+                        "description": "You are not alone. You have unique ability to go to another world.",
+                        "imagePath" : "assets/images/onboard/onboard_3.png"
+                        }
+        } 
+}
